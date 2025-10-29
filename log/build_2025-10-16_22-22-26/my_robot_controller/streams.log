@@ -1,0 +1,49 @@
+[0.265s] Invoking command in '/home/tobbe/ros2_ws/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/tobbe/ros2_ws/src/my_robot_controller -DCMAKE_INSTALL_PREFIX=/home/tobbe/ros2_ws/install/my_robot_controller
+[0.890s] -- The C compiler identification is GNU 13.3.0
+[2.569s] -- The CXX compiler identification is GNU 13.3.0
+[4.117s] -- Detecting C compiler ABI info
+[4.692s] -- Detecting C compiler ABI info - done
+[4.701s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.702s] -- Detecting C compile features
+[4.702s] -- Detecting C compile features - done
+[4.924s] -- Detecting CXX compiler ABI info
+[5.461s] -- Detecting CXX compiler ABI info - done
+[5.470s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.470s] -- Detecting CXX compile features
+[5.470s] -- Detecting CXX compile features - done
+[5.489s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[5.648s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[5.795s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[5.919s] -- Added test 'lint_cmake' to check CMake code style
+[5.922s] -- Added test 'xmllint' to check XML markup files
+[5.926s] -- Configuring done (5.6s)
+[5.934s] -- Generating done (0.0s)
+[5.938s] -- Build files have been written to: /home/tobbe/ros2_ws/build/my_robot_controller
+[5.945s] Invoked command in '/home/tobbe/ros2_ws/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/tobbe/ros2_ws/src/my_robot_controller -DCMAKE_INSTALL_PREFIX=/home/tobbe/ros2_ws/install/my_robot_controller
+[5.946s] Invoking command in '/home/tobbe/ros2_ws/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/tobbe/ros2_ws/build/my_robot_controller -- -j16 -l16
+[5.975s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[6.196s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[6.287s] -- Added test 'lint_cmake' to check CMake code style
+[6.288s] -- Added test 'xmllint' to check XML markup files
+[6.289s] -- Configuring done (0.3s)
+[6.293s] -- Generating done (0.0s)
+[6.295s] -- Build files have been written to: /home/tobbe/ros2_ws/build/my_robot_controller
+[6.324s] Invoked command in '/home/tobbe/ros2_ws/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/tobbe/ros2_ws/build/my_robot_controller -- -j16 -l16
+[6.337s] Invoking command in '/home/tobbe/ros2_ws/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/tobbe/ros2_ws/build/my_robot_controller
+[6.347s] -- Install configuration: ""
+[6.349s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
+[6.350s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
+[6.351s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.sh
+[6.351s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.dsv
+[6.351s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.sh
+[6.352s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.dsv
+[6.352s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.bash
+[6.352s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.sh
+[6.352s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.zsh
+[6.352s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.dsv
+[6.353s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.dsv
+[6.353s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
+[6.354s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig.cmake
+[6.354s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig-version.cmake
+[6.354s] -- Installing: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml
+[6.357s] Invoked command in '/home/tobbe/ros2_ws/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/tobbe/ros2_ws/build/my_robot_controller

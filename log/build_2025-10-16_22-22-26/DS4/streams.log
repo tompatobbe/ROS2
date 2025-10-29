@@ -1,0 +1,32 @@
+[1.512s] Invoking command in '/home/tobbe/ros2_ws/src/DS4': PYTHONPATH=/home/tobbe/ros2_ws/build/DS4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/DS4 build --build-base /home/tobbe/ros2_ws/build/DS4/build install --record /home/tobbe/ros2_ws/build/DS4/install.log --single-version-externally-managed install_data
+[1.747s] running egg_info
+[1.747s] creating ../../build/DS4/DS4.egg-info
+[1.764s] writing ../../build/DS4/DS4.egg-info/PKG-INFO
+[1.764s] writing dependency_links to ../../build/DS4/DS4.egg-info/dependency_links.txt
+[1.764s] writing requirements to ../../build/DS4/DS4.egg-info/requires.txt
+[1.764s] writing top-level names to ../../build/DS4/DS4.egg-info/top_level.txt
+[1.764s] writing manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+[1.807s] reading manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+[1.807s] writing manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+[1.808s] running build
+[1.808s] running build_py
+[1.808s] creating /home/tobbe/ros2_ws/build/DS4/build
+[1.809s] creating /home/tobbe/ros2_ws/build/DS4/build/lib
+[1.810s] creating /home/tobbe/ros2_ws/build/DS4/build/lib/DS4
+[1.810s] copying DS4/__init__.py -> /home/tobbe/ros2_ws/build/DS4/build/lib/DS4
+[1.810s] running install
+[1.818s] running install_lib
+[1.846s] creating /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4
+[1.847s] copying /home/tobbe/ros2_ws/build/DS4/build/lib/DS4/__init__.py -> /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4
+[1.847s] byte-compiling /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4/__init__.py to __init__.cpython-312.pyc
+[1.848s] running install_data
+[1.848s] creating /home/tobbe/ros2_ws/install/DS4/share/ament_index
+[1.849s] creating /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index
+[1.849s] creating /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index/packages
+[1.850s] copying resource/DS4 -> /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index/packages
+[1.850s] copying package.xml -> /home/tobbe/ros2_ws/install/DS4/share/DS4
+[1.850s] running install_egg_info
+[1.880s] Copying ../../build/DS4/DS4.egg-info to /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4-0.0.0-py3.12.egg-info
+[1.882s] running install_scripts
+[2.009s] writing list of installed files to '/home/tobbe/ros2_ws/build/DS4/install.log'
+[2.037s] Invoked command in '/home/tobbe/ros2_ws/src/DS4' returned '0': PYTHONPATH=/home/tobbe/ros2_ws/build/DS4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/DS4 build --build-base /home/tobbe/ros2_ws/build/DS4/build install --record /home/tobbe/ros2_ws/build/DS4/install.log --single-version-externally-managed install_data

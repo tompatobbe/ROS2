@@ -1,0 +1,20 @@
+[0.205s] Invoking command in '/home/tobbe/ros2_ws/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/tobbe/ros2_ws/build/my_robot_controller -- -j16 -l16
+[0.261s] Invoked command in '/home/tobbe/ros2_ws/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/tobbe/ros2_ws/build/my_robot_controller -- -j16 -l16
+[0.274s] Invoking command in '/home/tobbe/ros2_ws/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/tobbe/ros2_ws/build/my_robot_controller
+[0.284s] -- Install configuration: ""
+[0.284s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
+[0.284s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.sh
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.dsv
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.sh
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.dsv
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.bash
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.sh
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.zsh
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.dsv
+[0.285s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.dsv
+[0.286s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
+[0.286s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig.cmake
+[0.286s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig-version.cmake
+[0.286s] -- Up-to-date: /home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml
+[0.287s] Invoked command in '/home/tobbe/ros2_ws/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/tobbe/ros2_ws/build/my_robot_controller

@@ -1,0 +1,15 @@
+/home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
+/home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.sh
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.dsv
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.sh
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.dsv
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.bash
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.sh
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.zsh
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.dsv
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.dsv
+/home/tobbe/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig.cmake
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig-version.cmake
+/home/tobbe/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml

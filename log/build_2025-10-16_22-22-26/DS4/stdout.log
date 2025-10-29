@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/DS4/DS4.egg-info
+writing ../../build/DS4/DS4.egg-info/PKG-INFO
+writing dependency_links to ../../build/DS4/DS4.egg-info/dependency_links.txt
+writing requirements to ../../build/DS4/DS4.egg-info/requires.txt
+writing top-level names to ../../build/DS4/DS4.egg-info/top_level.txt
+writing manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+reading manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+writing manifest file '../../build/DS4/DS4.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tobbe/ros2_ws/build/DS4/build
+creating /home/tobbe/ros2_ws/build/DS4/build/lib
+creating /home/tobbe/ros2_ws/build/DS4/build/lib/DS4
+copying DS4/__init__.py -> /home/tobbe/ros2_ws/build/DS4/build/lib/DS4
+running install
+running install_lib
+creating /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4
+copying /home/tobbe/ros2_ws/build/DS4/build/lib/DS4/__init__.py -> /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4
+byte-compiling /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/tobbe/ros2_ws/install/DS4/share/ament_index
+creating /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index
+creating /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index/packages
+copying resource/DS4 -> /home/tobbe/ros2_ws/install/DS4/share/ament_index/resource_index/packages
+copying package.xml -> /home/tobbe/ros2_ws/install/DS4/share/DS4
+running install_egg_info
+Copying ../../build/DS4/DS4.egg-info to /home/tobbe/ros2_ws/install/DS4/lib/python3.12/site-packages/DS4-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/tobbe/ros2_ws/build/DS4/install.log'
