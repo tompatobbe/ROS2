@@ -1,0 +1,2 @@
+[console_scripts]
+my_node = ds4.my_node:main

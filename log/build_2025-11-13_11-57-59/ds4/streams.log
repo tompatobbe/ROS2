@@ -1,0 +1,22 @@
+[1.500s] Invoking command in '/home/tobbe/ROS2/src/ds4': PYTHONPATH=/home/tobbe/ROS2/build/ds4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tobbe/ROS2/install/ds4/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ds4 build --build-base /home/tobbe/ROS2/build/ds4/build install --record /home/tobbe/ROS2/build/ds4/install.log --single-version-externally-managed install_data
+[1.784s] running egg_info
+[1.804s] writing ../../build/ds4/ds4.egg-info/PKG-INFO
+[1.804s] writing dependency_links to ../../build/ds4/ds4.egg-info/dependency_links.txt
+[1.805s] writing entry points to ../../build/ds4/ds4.egg-info/entry_points.txt
+[1.805s] writing requirements to ../../build/ds4/ds4.egg-info/requires.txt
+[1.805s] writing top-level names to ../../build/ds4/ds4.egg-info/top_level.txt
+[1.846s] reading manifest file '../../build/ds4/ds4.egg-info/SOURCES.txt'
+[1.846s] adding license file 'LICENSE'
+[1.847s] writing manifest file '../../build/ds4/ds4.egg-info/SOURCES.txt'
+[1.847s] running build
+[1.847s] running build_py
+[1.847s] running install
+[1.854s] running install_lib
+[1.875s] running install_data
+[1.875s] running install_egg_info
+[1.898s] removing '/home/tobbe/ROS2/install/ds4/lib/python3.12/site-packages/ds4-0.0.0-py3.12.egg-info' (and everything under it)
+[1.899s] Copying ../../build/ds4/ds4.egg-info to /home/tobbe/ROS2/install/ds4/lib/python3.12/site-packages/ds4-0.0.0-py3.12.egg-info
+[1.902s] running install_scripts
+[2.053s] Installing my_node script to /home/tobbe/ROS2/install/ds4/lib/ds4
+[2.053s] writing list of installed files to '/home/tobbe/ROS2/build/ds4/install.log'
+[2.109s] Invoked command in '/home/tobbe/ROS2/src/ds4' returned '0': PYTHONPATH=/home/tobbe/ROS2/build/ds4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tobbe/ROS2/install/ds4/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ds4 build --build-base /home/tobbe/ROS2/build/ds4/build install --record /home/tobbe/ROS2/build/ds4/install.log --single-version-externally-managed install_data
