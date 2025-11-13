@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'ds4'
+package_name = 'py_pubsub'
 
 setup(
     name=package_name,
@@ -24,7 +24,6 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'my_node = ds4.my_node:main'
         ],
     },
 )
